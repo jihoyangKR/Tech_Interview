@@ -1,6 +1,6 @@
 # Operating System
 
-- [프로세스와 스레드](#프로세스와 스레드)
+- [프로세스와 스레드](#프로세스와-스레드)
 
 ## 프로세스와 스레드
 
@@ -20,7 +20,7 @@
 
     커널 내에는 준비 큐, 대기 큐, 실행 큐 등의 자료 구조가 있으며 커널은 이것들을 이용하여 프로세스의 상태를 관리한다.
 
-    ![image-20220606225937277](C:\Users\qqq59\Desktop\ssafy\Github\Tech_Interview\contents\image-20220606225937277.png)
+    ![](images/image-20220606225937277.png)
 
     - 생성(create): 프로세스가 생성되는 중이다.
     - 실행(running): 프로세스가 CPU를 차지하여 명령어들이 실행되고 있다.
@@ -55,7 +55,7 @@
 
 - ### 스레드(Tread)
 
-  ### ![img](C:\Users\qqq59\Desktop\ssafy\Github\Tech_Interview\contents\img.png)
+  ![](images/img.png)
 
   - 프로세스 내에서 실행되는 여러 흐름의 단위
     - 프로세스의 특정한 수행 경로
